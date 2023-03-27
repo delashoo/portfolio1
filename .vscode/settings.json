@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 11,
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.alwaysSignOff": true
+}
